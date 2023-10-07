@@ -53,11 +53,6 @@ Contact Information:
 [Link to personal portfolio]
 [Link to social media profiles]
 
-Contact Information:
-- [Your Name]
-- [Email Address]
-- [Link to Personal Portfolio]
-- [Link to Social Media Profiles]
 
 
 
