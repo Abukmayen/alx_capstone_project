@@ -1,4 +1,5 @@
 alx_capstone_project- Personal Portfolio Website:
+
 Project Overview:
 The Personal Portfolio Website project aims to create an online platform that serves as a digital resume and showcase of an individual's skills, accomplishments, and projects. Its primary purpose is to provide a centralized and easily accessible location for professionals, freelancers, or job seekers to present their work and qualifications to potential employers, clients, or collaborators.
 
